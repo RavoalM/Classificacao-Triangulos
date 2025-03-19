@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassificacaoTriangulo.ConsoleApp", "ClassificacaoTriangulo.ConsoleApp\ClassificacaoTriangulo.ConsoleApp.csproj", "{AFBFB38E-F147-45C7-B2E3-437A67D6ADC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFBFB38E-F147-45C7-B2E3-437A67D6ADC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBFB38E-F147-45C7-B2E3-437A67D6ADC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBFB38E-F147-45C7-B2E3-437A67D6ADC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBFB38E-F147-45C7-B2E3-437A67D6ADC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4C40E75-37AC-40D5-8E58-39E1F7FB5B59}
+	EndGlobalSection
+EndGlobal
